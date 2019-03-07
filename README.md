@@ -1,4 +1,4 @@
-# Appium Api Demos Automation.
+# Appium Api Demos Automated Testing.
 
 ## Description:
 Sample tests executed on Appium Api Demos app with usage of Appium tool.
